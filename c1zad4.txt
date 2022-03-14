@@ -1,0 +1,23 @@
+Cl: Person
+Name: string 
+Surname: string 
+Age: int 
+Introduceyourself(): string 
+
+Cl: Address 
+Street: string 
+City: string 
+State: string 
+Postal Code: int 
+Country: string 
+Validate(): bool 
+OutputAsLabel(): string
+ 
+Cl: Student 
+Student Number: int 
+Average Mark: int 
+IsEliqibleToEnroll(): bool 
+GetSeminarsTaken(): sting 
+
+Cl: Professor 
+Salary: int 
